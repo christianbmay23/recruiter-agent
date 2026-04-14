@@ -1,0 +1,25 @@
+Build a polished MVP web app called Recruiter Agent.
+
+Goal: upload resume + paste job description → get resume score, ATS check, job match, tailored rewrite, version comparison, export.
+
+Pages:
+- Landing
+- Auth
+- Dashboard
+- Resume input
+- Job description input
+- Analysis page
+- Tailored editor
+- Comparison
+- Export
+
+Rules:
+- No fabricated experience
+- Use placeholders for missing metrics
+- ATS-safe formatting only
+
+Stack:
+React + TypeScript + Tailwind + Node + SQLite
+
+Deliver:
+Working full-stack app with clean UI and modular AI services.
