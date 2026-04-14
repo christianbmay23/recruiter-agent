@@ -6,8 +6,7 @@
     "skipLibCheck": true,
     "esModuleInterop": true,
     "strict": true,
-    "noEmit": true,
-    "outDir": "./dist-server"
+    "noEmit": true
   },
   "include": ["server"]
 }
