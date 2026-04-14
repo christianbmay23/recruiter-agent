@@ -1,0 +1,11 @@
+Refine the app:
+
+- Improve UI polish
+- Better spacing and typography
+- Stronger dashboard UX
+- Cleaner analysis layout
+- Improve editor experience
+- Add demo data
+- Improve empty states
+
+Make it feel like a premium SaaS product.
