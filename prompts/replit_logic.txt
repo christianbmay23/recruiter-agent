@@ -1,0 +1,10 @@
+Improve product logic:
+
+- Better ATS scoring
+- Keyword matching engine
+- Bullet quality detection
+- Recruiter-style feedback
+- Stronger resume rewrite
+
+Never fabricate experience.
+Use placeholders for missing metrics.
