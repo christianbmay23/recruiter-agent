@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-server/
+data/
+*.db
+*.db-journal
+*.db-wal
+*.tsbuildinfo
